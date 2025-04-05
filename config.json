@@ -1,0 +1,10 @@
+{
+    "prefix": ".",
+    "notification": "True",
+    "rpc": "True",
+    "bal": {
+        "btc": "",
+        "eth": "",
+        "ltc": ""
+    }
+}

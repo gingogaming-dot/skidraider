@@ -1,0 +1,106 @@
+{
+    "spam": {
+        "message": "",
+        "channelid": "",
+        "serverid": "",
+        "delay": 0,
+        "random": {
+            "use": "True",
+            "type": "emoji",
+            "length": 100
+        },
+        "massping": {
+            "type": "True",
+            "onlyonline": "True",
+            "pingpermessage": 1
+        }
+    },
+    "massspam": {
+        "message": "",
+        "channelids": [],
+        "serverid": "",
+        "delay": 0,
+        "random": {
+            "use": "True",
+            "type": "emoji",
+            "length": 100
+        },
+        "massping": {
+            "type": "True",
+            "onlyonline": "True",
+            "pingpermessage": 1
+        }
+    },
+    "poll": {
+        "channelid": "",
+        "question": "who are u?",
+        "answerlist": [
+            "nigger",
+            "gay",
+            "sex",
+            "trans",
+            "nigger and gay",
+            "nigger and trans"
+        ],
+        "number": 3,
+        "duration": 24,
+        "delay": 0
+    },
+    "join": {
+        "invite": "dFsCF2dhX4"
+    },
+    "leave": {
+        "serverid": ""
+    },
+    "nick": {
+        "nickname": "",
+        "serverid": ""
+    },
+    "voicecall": {
+        "channelid": "",
+        "serverid": "",
+        "mute": "False",
+        "deaf": "False",
+        "stream": "False",
+        "video": "False"
+    },
+    "reaction": {
+        "channelid": "",
+        "messageid": ""
+    },
+    "button": {
+        "number": "",
+        "channelid": "",
+        "serverid": "",
+        "messageid": ""
+    },
+    "boost": {
+        "serverid": "1344244937398681644"
+    },
+    "vaultcord": {
+        "botid": ""
+    },
+    "message": {
+        "message": "",
+        "channelid": ""
+    },
+    "call": {
+        "userid": ""
+    },
+    "friend": {
+        "username": ""
+    },
+    "unfriend": {
+        "userid": ""
+    },
+    "dm": {
+        "userid": "1350780367996588044",
+        "message": "test"
+    },
+    "typing": {
+        "channelid": ""
+    },
+    "fun": {
+        "channelid": ""
+    }
+}
